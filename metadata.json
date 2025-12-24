@@ -1,0 +1,7 @@
+{
+  "name": "Copy of test",
+  "description": "A professional AI-powered banner and poster generator that uses your inspiration images and product photos to create stunning marketing materials using Google Gemini's advanced image generation models.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
